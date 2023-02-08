@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-float exploreExploitRatio = 0.33;
+float exploreExploitRatio = 0;
 
 bool fx(vector<int>&tab, int max){
     
